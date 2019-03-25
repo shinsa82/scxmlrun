@@ -1,5 +1,6 @@
 Original document are [moved](README_old.md).
+`master` branch of this fork is copied version from original's `develop` branch.
 
 # How to build Docker image
 
-Switch to `develop` branch and `make docker-build`.
+Run `make docker-build`.
