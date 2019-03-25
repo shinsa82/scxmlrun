@@ -35,4 +35,6 @@ options
 
 ## Run an SCXML
 
-`docker run ldltools/scxmlrun-dev -v <directory where the scxml is located>:/root <arguments to scxmlrun>`
+Run `docker run ldltools/scxmlrun-dev -v <directory where the scxml is located>:/root <arguments to scxmlrun>`
+
+Off course you can use docker-compose to do that.
